@@ -17,6 +17,14 @@ export default function Home() {
           <p className="max-w-2xl text-sm text-white/60 sm:text-base">
             Bu sayfa her 5 saniyede bir yeni bir cümleyle seni taçlandırır.
           </p>
+          <a
+            className="text-xs font-medium text-white/50 transition hover:text-white/80"
+            href="https://x.com/biricik_js"
+            target="_blank"
+            rel="noreferrer"
+          >
+            by Bora Biricik
+          </a>
         </div>
       </main>
     </div>
